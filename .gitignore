@@ -3,6 +3,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+System.println("hello world"); 
+
+
 # Package Files #
 *.jar
 *.war
